@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+
+# Uncomment the line below if you want a smaller GitHub repo
+# (the deployed dashboard only needs data/cleaned/, not data/raw/)
+data/raw/*.csv

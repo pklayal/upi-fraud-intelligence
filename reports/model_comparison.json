@@ -1,0 +1,39 @@
+{
+  "rule_based_fraud_score": {
+    "threshold": 52.0,
+    "precision": 1.0,
+    "recall": 0.994,
+    "f1": 0.997
+  },
+  "isolation_forest": {
+    "precision": 0.25,
+    "recall": 0.244,
+    "f1": 0.247
+  },
+  "xgboost": {
+    "roc_auc": 0.9983,
+    "precision": 0.955,
+    "recall": 0.943,
+    "f1": 0.949,
+    "confusion_matrix": [
+      [
+        1368,
+        7
+      ],
+      [
+        9,
+        148
+      ]
+    ]
+  },
+  "xgboost_top_features": {
+    "velocity_count": 0.8142399787902832,
+    "attempt_count": 0.04470903053879738,
+    "amount": 0.04057959094643593,
+    "switching_pct": 0.03525952249765396,
+    "hour_of_day": 0.020646557211875916,
+    "bank_enc": 0.012776087038218975,
+    "upi_app_enc": 0.01268681138753891,
+    "amount_slab_enc": 0.011995754204690456
+  }
+}

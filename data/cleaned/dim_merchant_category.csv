@@ -1,0 +1,11 @@
+merchant_category,total_txns,total_amount,fraud_count
+Education,7598,38704346,16
+Entertainment,20103,8309080,40
+Food,37464,19919402,73
+Fuel,25063,38982575,48
+Grocery,49966,58277893,94
+Healthcare,12663,6874159,21
+Other,24828,21073449,50
+Shopping,29872,76863207,62
+Transport,20105,6192416,43
+Utilities,22338,52742482,33

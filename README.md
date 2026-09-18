@@ -4,6 +4,12 @@ An end-to-end **UPI fraud analytics and machine learning system** combining busi
 
 Built as an **MBA Capstone Project in Data Science**.
 
+## 🚀 Live Demo
+
+👉 **[Open the UPI Fraud & Risk Intelligence Dashboard](https://upi-fraud-intelligence-fiatpckcgktaaw66h25vns.streamlit.app/)**
+
+The dashboard is deployed using Streamlit Community Cloud and provides interactive fraud analytics, behavioral risk analysis, and ML model comparison.
+
 ---
 
 ## 🚀 Project Overview
